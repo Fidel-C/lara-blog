@@ -116,7 +116,7 @@
                 "MIT"
             ],
             "authors": [
-                {
+                { 
                     "name": "Dries Vints",
                     "homepage": "https://driesvints.com"
                 }
